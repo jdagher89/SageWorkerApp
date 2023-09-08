@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SageWorkerApp", "SageWorkerApp\SageWorkerApp.csproj", "{CA2DAC4F-27DD-4554-94A0-2D5259A123DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA2DAC4F-27DD-4554-94A0-2D5259A123DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2DAC4F-27DD-4554-94A0-2D5259A123DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2DAC4F-27DD-4554-94A0-2D5259A123DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2DAC4F-27DD-4554-94A0-2D5259A123DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5CA8942-644E-48B2-9C80-2BDA564F8E39}
+	EndGlobalSection
+EndGlobal
